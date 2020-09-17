@@ -1,4 +1,4 @@
-#Assignment 4 - Functions
+# Assignment 4 - Functions
 
 Prompt the user for their name.
 
